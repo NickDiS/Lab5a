@@ -64,7 +64,6 @@ class Employee {
     public string Employmentstatus{get; set;}
 
 
-   
 
     //Methods    
     public void Intro()

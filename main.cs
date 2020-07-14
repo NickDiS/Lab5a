@@ -19,8 +19,6 @@ class MainClass {
     number4.IncreaseSalary(.07);
     number4.RemoveEmployee();
     number4.RemoveEmployee();
-   
-
-    
+  
   }
 }
